@@ -1,4 +1,4 @@
-FROM webcenter/ember-builder
+FROM quay.io/webcenter/ember-builder
 MAINTAINER Sebastien Langoureaux <linuxworkgroup@hotmail.com>
 
 
